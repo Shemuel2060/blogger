@@ -10,7 +10,7 @@ function Navbar(){
 
     return(
         <div className="nav-bar">
-            <h3 className='logo'>HEAVENFUL LIFE</h3>
+            <h3 className='logo'>SHEMUEL CODE</h3>
             <nav className='links'>
                 <a href="#" className="nav-links">About</a>
                 <a href="#" className="nav-links">Blog</a>
