@@ -1,0 +1,32 @@
+body{
+    background-color: #333;
+}
+.logo{
+    color:#333;
+}
+.nav-bar{
+    background-color:#fff;
+    color:#fff;
+    margin:20px;
+    display: flex;
+    align-content: center;
+    height:50px;
+    justify-content: center;
+    
+}
+h3{
+    display: inline;
+    margin: 0;
+    margin-right: 300px;
+}
+.nav-links{
+    text-decoration: none;
+    margin-right:50px;
+}
+.links,h3,.search{
+    margin-top:20px;
+}
+.search{
+    color:blue;
+    margin-left:100px;
+}
