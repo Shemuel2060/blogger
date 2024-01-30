@@ -1,0 +1,30 @@
+header{
+    color:#fff;
+}
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width:38%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+.card h1{
+    color:#00c9c8;
+}
+.card p{
+    color:#41787f;
+}
+.right-cards{
+    position:relative;
+    margin: 10px 50px 10px 100px;
+}
+.left-cards, .professions{
+    position:relative;
+    top:-1330px;
+    left:570px;
+    margin: 10px 0px 0px 150px;
+}
+.education{
+    margin-left:100px;
+}

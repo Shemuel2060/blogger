@@ -16,7 +16,8 @@ const Footer = ()=>{
                 <Link to="/contact-me" className="nav-links">Contact</Link>               
             </nav>
             
-            <p>&copy; 2024 Samuel Katongole    All rights reserved.</p>
+            <p className='footer-p'>&copy; 2024 Samuel Katongole    
+            All rights reserved.</p>
         </div>
     )
 

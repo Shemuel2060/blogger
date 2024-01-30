@@ -6,7 +6,7 @@ import '../styles/currentMe.css'
 function CurrentMe(){
     return(
         <div className='container'>
-            <div>
+            <div className='text'>
                 <h1>Samuel Katongole</h1>
                 <h3>Job Position</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
@@ -22,7 +22,7 @@ function CurrentMe(){
                     Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque. 
                 </p>
             </div>
-            <div>
+            <div className='image'>
                 <img src={me} alt="myself" className='myImg'/>
             </div>
             
